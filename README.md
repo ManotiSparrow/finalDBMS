@@ -26,3 +26,5 @@ This SQL project models the database of Rehema Academy, a fictional school. It c
 ## ERD DIAGRAM OF THE TABLES
 ![alt text](rehema_academy_erd.png)
 
+https://ibb.co/rGdyzKJc
+
